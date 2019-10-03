@@ -1,7 +1,7 @@
 # Instructions
 
 1. Download the repository either
-    - by pushing the green ``clone or download`` button and unpacking the zip file;
+    - by pushing the green ``Clone or download`` button and unpacking the zip file;
     - or open a terminal and do: ``git clone https://github.com/acamboni/COMCHA.git``
 
 2. Unpack ``Data.zip`` you find in ``1. Tutorial BDT`` and ``Challenge`` folder.
