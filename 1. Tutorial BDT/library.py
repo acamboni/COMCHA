@@ -35,7 +35,6 @@ def modelfit(alg, dtrain, predictors, useTrainCV=True, cv_folds=5, early_stoppin
     
 
 
-#Choose all predictors except target & IDcols
 xgb1 = XGBClassifier(
  learning_rate =0.1,
  n_estimators=10,
