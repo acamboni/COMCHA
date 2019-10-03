@@ -5,4 +5,4 @@
     - or open a terminal and do: ``git clone https://github.com/acamboni/COMCHA.git``
 
 2. Unpack ``Data.zip`` you find in ``1. Tutorial BDT`` and ``Challenge`` folders.
-3. Download [this archive](https://drive.google.com/uc?id=1q49282ENDj0YECpxDfjMJzOZieLfCHh6&export=download), unpack it and put resulting ``Data`` folder in `` 	3. Tutorial Autoencoder`` folder.
+3. Download [this file](https://drive.google.com/uc?id=1q49282ENDj0YECpxDfjMJzOZieLfCHh6&export=download), unpack it and put resulting ``Data`` folder in `` 	3. Tutorial Autoencoder`` folder.
